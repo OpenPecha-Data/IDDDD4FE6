@@ -1,0 +1,28 @@
+id: IDDDD4FE6
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 17:57:13.247447+00:00
+last_modified: 2022-12-14 17:57:13.247459+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-04-04T10:04:29.971Z'
+  creationid: dirk
+  eft-text-id: UT22084-071-014
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_300-The_Sutra_on_Reliance_upon_a_Virtuous_Spiritual_Friend-v1
+bases:
+  1FA4:
+    source_metadata: null
+    order: 1
+    base_file: 1FA4.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''

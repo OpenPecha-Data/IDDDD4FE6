@@ -1,0 +1,132 @@
+id: 8fff9e62d98640049fb1303477ba6fed
+annotation_type: Segment
+revision: '00001'
+annotations:
+  d2c9fd0f971a40e7b6cdc7572d37de57:
+    span:
+      start: 0
+      end: 32
+  6fc68a966c214267bf6c4c19bb90f12e:
+    span:
+      start: 34
+      end: 84
+  34d08d1dbfff4ed6bb5dcb94a80bc009:
+    span:
+      start: 86
+      end: 193
+  5cacf759460a4e389efc2653e161baa6:
+    span:
+      start: 195
+      end: 254
+  b0b00af034af444bae863fb6e05fc8e6:
+    span:
+      start: 256
+      end: 281
+  bfee92aee86543129c8c27a425e0c724:
+    span:
+      start: 283
+      end: 327
+  d6d7ad2d6cf24397947602099383103b:
+    span:
+      start: 329
+      end: 401
+  f3a0f5e55826430bb5ac5952bb6b532c:
+    span:
+      start: 403
+      end: 481
+  895fa2bb30b24fdfb6c27e4cb4a375c8:
+    span:
+      start: 483
+      end: 530
+  d89f913142324eae9e186a77df7e997c:
+    span:
+      start: 532
+      end: 598
+  43fa2181a9674a8ea8e1e00d7233b2e6:
+    span:
+      start: 600
+      end: 731
+  de47177ae1394dadb493ee35c0e15561:
+    span:
+      start: 733
+      end: 827
+  389c9de38e794fb39ad81d3a0ff72c89:
+    span:
+      start: 829
+      end: 907
+  5c2fb56da68844a697f03f716ae2cd74:
+    span:
+      start: 909
+      end: 936
+  1ee3e1fd89c24d23a5a847d0c5a3e2a0:
+    span:
+      start: 938
+      end: 1127
+  5b9f30693e0f4b57bb751b8f19f322d2:
+    span:
+      start: 1129
+      end: 1146
+  fadeb56b9856410699d4d5eacb2463f1:
+    span:
+      start: 1148
+      end: 1169
+  f604219d4cf14c1b8c34361ecd5a4213:
+    span:
+      start: 1171
+      end: 1192
+  1ea15c5be5e74b4db845203a3761306d:
+    span:
+      start: 1194
+      end: 1214
+  74fcdfb7b1a740198854b1fea84b1216:
+    span:
+      start: 1216
+      end: 1340
+  e4c1872d86a049b7ab31ad40959ab15b:
+    span:
+      start: 1342
+      end: 1364
+  2396239426214aa49e4f1af7a4a5492c:
+    span:
+      start: 1366
+      end: 1387
+  b996860cc1c340939bfd865437cd480b:
+    span:
+      start: 1389
+      end: 1424
+  45e2f5f456384e8bb6be2e992d9fdd29:
+    span:
+      start: 1426
+      end: 1464
+  6634565f30554e2594e919fce29cfb30:
+    span:
+      start: 1466
+      end: 1541
+  26793cec5a51478cbcc60c1f2e6dfb80:
+    span:
+      start: 1543
+      end: 1824
+  a4e9956115e847dfaf7376703fb358d8:
+    span:
+      start: 1826
+      end: 1891
+  535123b7983348688f4720769d4f0d63:
+    span:
+      start: 1893
+      end: 1933
+  8503ea0c61c243749265891c2f374b5c:
+    span:
+      start: 1935
+      end: 1974
+  73f4ab645fd1485fa48338c8f7809fd8:
+    span:
+      start: 1976
+      end: 2000
+  67e9e00d7e7949a7b61ef5eac3c46026:
+    span:
+      start: 2002
+      end: 2050
+  b36f502374ff489fb6065c0d080ea996:
+    span:
+      start: 2052
+      end: 2101
